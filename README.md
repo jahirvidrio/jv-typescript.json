@@ -1,6 +1,6 @@
 # typescript.json Caja SMG template
 
-```json
+```json5
 // Project typescript.json
 
 {
